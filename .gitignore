@@ -1,0 +1,6 @@
+# ignore everythihng 
+*
+# but get m file
+!*.m
+!*.md
+
